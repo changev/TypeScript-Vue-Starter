@@ -11,7 +11,7 @@ This guide is flexible enough that any steps here can be used to integrate TypeS
 
 # Before you begin
 
-If you're new to Typescript and Vue, here are few resources to get you up and running:
+If you're new to Typescript and Vue, here are few resources to get you up and running: 
 
 ## TypeScript
   * [Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
